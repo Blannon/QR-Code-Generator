@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR Generator in Java</string>
+    <string name="enter_text_to_generate_qr_code">Enter Text to generate QR Code</string>
+</resources>
